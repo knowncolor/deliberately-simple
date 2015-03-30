@@ -16,4 +16,4 @@ See it in action at https://jamesoliveradams.com
 
 Screenshot
 -
-![Screenshot of Deliberately Simple](https://raw.githubusercontent.com/knowncolor/deliberately-simple/sample.png)
+![Screenshot of Deliberately Simple](https://raw.githubusercontent.com/knowncolor/deliberately-simple/master/sample.png)
