@@ -1,0 +1,5 @@
+Theme name:     Deliberately Simple
+Description:    Super-lightweight & clean (under 7kb in total) HTML5 theme emphasizing articles and content.
+Author name:    James Adams
+Author site:    https://jamesoliveradams.com
+License:        http://creativecommons.org/licenses/by-sa/4.0/
