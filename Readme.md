@@ -14,6 +14,10 @@ Demo
 -
 See it in action at https://jamesoliveradams.com
 
+License
+-
+http://creativecommons.org/licenses/by-sa/4.0/
+
 Screenshot
 -
 ![Screenshot of Deliberately Simple](https://raw.githubusercontent.com/knowncolor/deliberately-simple/master/sample.png)
