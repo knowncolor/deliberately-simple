@@ -8,15 +8,28 @@ h1, h2, h3, h4, h5, p {
 	color: #7C00FF;
 }
 
+nav 
+{
+	padding-bottom: 20px;
+	font-family: 'Bitter', serif;
+}
+
+nav a 
+{
+	padding: 10px;
+	margin: 10px;
+	font-weight: 700;
+	font-size:	25px;
+}
+
 .site-header {
 	height: 200px;
 }
 
-.site-header, .site-footer {
+.site-header, .site-footer, nav {
 	margin-left: auto;
 	margin-right: auto;
-	background: #7C00FF;
-		background: #333333;
+	background: #333333;
 	text-align: center;
 }
 
@@ -28,7 +41,7 @@ h1, h2, h3, h4, h5, p {
 	letter-spacing: 2px;
 }
 
-.site-header h1 a {
+.site-header h1 a, nav a {
 	text-decoration: none;
 	color: #fff;
 	color: #00E445;

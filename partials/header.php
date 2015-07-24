@@ -12,3 +12,10 @@
 		<header class="site-header">
 			<h1><a href="<?php echo base_url(); ?>" title="<?php echo site_description(); ?>"><?php echo site_name(); ?></a></h1>
 		</header>
+		<?php if(has_menu_items()) : ?>
+			<nav>
+				<?php while(menu_items()): ?>
+					<a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"><?php echo menu_name(); ?></a>
+				<?php endwhile; ?>
+			</nav>
+		<?php endif; ?>
